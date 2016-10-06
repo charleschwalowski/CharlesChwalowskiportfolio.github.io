@@ -2,22 +2,22 @@
 
 
 	body {
-			background:black;
+			background:white;
 			font: 100% Georgia, Times, serif;
-			color:white;
+			color:black;
 	}
 	h1 {
 			font: 200% Arial, Helvetica, sans-serif;
-			color: white;
+			color: black;
 			margin-left: 50px;
 	}
 	h2 {
 			font: 100% Helvetica;
-			color: white;
+			color: black;
 			margin-left: 50px;
 	}
 	p { 
-			color: white;
+			color: black;
 	}
 
 	#wrapper {
@@ -49,12 +49,12 @@
 	#mainHeader ul li a {
 			font-family: Arial, Helvetica, sans-serif;
 			font-size: 20px;
-			color:white;
+			color:black;
 			padding: 0 15px;
 			border-right: 1px solid black;
-			text-decoration: navy;
+			text-decoration: black;
 			margin-right: 100%px;
-			border-color:white;
+			border-color:black;
 			
 
 			
